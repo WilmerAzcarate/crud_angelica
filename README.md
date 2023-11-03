@@ -1,27 +1,42 @@
-# Crud
+# Requerimientos
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
+Usar efectos
 
-## Development server
+## nav
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Inicio
 
-## Code scaffolding
+Quienes somos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Mision
 
-## Build
+- Vision
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Login
 
-## Running unit tests
+## FOOTER
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+barra inferior
 
-## Running end-to-end tests
+## HOME 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Carrousel de perros
 
-## Further help
+## PAG 1 - LOGIN
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Al hacer login debe llevarme a un formulario para registrar perros
+
+## PAG 2 - Formularios para registrar perros
+
+### Seccion 1
+Nombre 
+
+Raza
+
+Nombre propietario
+
+Descripcion
+
+### Seccion 2
+
+Historia clinica perro
